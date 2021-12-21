@@ -41,6 +41,12 @@ jsx application/x-javascript+xml
 mrc application/marc
 ms text/troff
 ms text/troff
+php text/x-php
+php application/x-php
+php application/x-httpd-php
+php application/x-httpd-php-source
+py text/x-python
+pyc application/x-python-code
 potm application/vnd.ms-powerpoint.template.macroenabled.12
 ppam application/vnd.ms-powerpoint.addin.macroenabled.12
 ppsm application/vnd.ms-powerpoint.slideshow.macroenabled.12
