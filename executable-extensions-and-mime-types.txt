@@ -42,6 +42,7 @@ mrc application/marc
 ms text/troff
 ms text/troff
 php text/x-php
+php text/php
 php application/x-php
 php application/x-httpd-php
 php application/x-httpd-php-source
